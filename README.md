@@ -1,2 +1,2 @@
 ﻿# Taiba-Clone
- https://raomuhammadowais.github.io/Taiba--Clone/
+https://muhammadowaisrao12.github.io/taiba-clone/
